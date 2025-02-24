@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Brisbane CBD Bicycle User Group (BUG)</title>
-    <link>https://adammorrow98.github.io/cbdbugwebsite/categories/</link>
+    <link>https://brisbanecbdbug.org/categories/</link>
     <description>Recent content in Categories on Brisbane CBD Bicycle User Group (BUG)</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
-    <atom:link href="https://adammorrow98.github.io/cbdbugwebsite/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://brisbanecbdbug.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cycling</title>
-      <link>https://adammorrow98.github.io/cbdbugwebsite/categories/cycling/</link>
+      <link>https://brisbanecbdbug.org/categories/cycling/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>https://adammorrow98.github.io/cbdbugwebsite/categories/cycling/</guid>
+      <guid>https://brisbanecbdbug.org/categories/cycling/</guid>
       <description></description>
     </item>
     <item>
       <title>Dogs</title>
-      <link>https://adammorrow98.github.io/cbdbugwebsite/categories/dogs/</link>
+      <link>https://brisbanecbdbug.org/categories/dogs/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>https://adammorrow98.github.io/cbdbugwebsite/categories/dogs/</guid>
+      <guid>https://brisbanecbdbug.org/categories/dogs/</guid>
       <description></description>
     </item>
   </channel>

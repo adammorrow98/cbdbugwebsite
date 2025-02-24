@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Brisbane CBD Bicycle User Group (BUG)</title>
-    <link>https://adammorrow98.github.io/cbdbugwebsite/tags/</link>
+    <link>https://brisbanecbdbug.org/tags/</link>
     <description>Recent content in Tags on Brisbane CBD Bicycle User Group (BUG)</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
-    <atom:link href="https://adammorrow98.github.io/cbdbugwebsite/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://brisbanecbdbug.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CityLink</title>
-      <link>https://adammorrow98.github.io/cbdbugwebsite/tags/citylink/</link>
+      <link>https://brisbanecbdbug.org/tags/citylink/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>https://adammorrow98.github.io/cbdbugwebsite/tags/citylink/</guid>
+      <guid>https://brisbanecbdbug.org/tags/citylink/</guid>
       <description></description>
     </item>
     <item>
       <title>Cycling</title>
-      <link>https://adammorrow98.github.io/cbdbugwebsite/tags/cycling/</link>
+      <link>https://brisbanecbdbug.org/tags/cycling/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>https://adammorrow98.github.io/cbdbugwebsite/tags/cycling/</guid>
+      <guid>https://brisbanecbdbug.org/tags/cycling/</guid>
       <description></description>
     </item>
   </channel>
