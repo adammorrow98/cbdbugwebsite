@@ -218,7 +218,7 @@
 
 <script>
   let indexURL = "https://brisbanecbdbug.org/searchindex.json";
-  let includeSectionsInSearch = ["blog"];
+  let includeSectionsInSearch = ["blog","our-letters"];
   let search_no_results = "No results for";
   let search_initial_message = "Type something to search..";
 </script>
@@ -581,6 +581,10 @@
                 
                 
                 
+              
+                
+                
+                
                inline-flex items-center">
               Pages
               <svg class="h-4 w-4 fill-current" viewBox="0 0 20 20">
@@ -643,6 +647,17 @@
                     
                     href="/contact">
                     Contact
+                  </a>
+                </li>
+              
+                
+                
+                <li class="nav-dropdown-item">
+                  <a
+                    class="nav-dropdown-link "
+                    
+                    href="/our-letters">
+                    Our Letters
                   </a>
                 </li>
               
@@ -967,6 +982,9 @@
       
       
         
+
+        
+        
         
         
         
@@ -978,16 +996,35 @@
         
 
 
-        <img
-          
-            src="/images/avatar_hu_a99aee4491207c24.webp" loading="lazy"
-            decoding="async" alt="Adam Morrow"
-          
-
-          class=" mx-auto mb-6 rounded img"
-          width="194"
-          height="194"
-          onerror="this.onerror='null';this.src='\/images\/avatar.png';" />
+        <picture>
+          <source
+            
+              srcset="/images/Adam-Morrow_hu_e57135c47bfb7ec3.webp"
+            
+            media="(max-width: 575px)" />
+          <source
+            
+              srcset="/images/Adam-Morrow_hu_1e4b80b212a25065.webp"
+            
+            media="(max-width: 767px)" />
+          <source
+            
+              srcset="/images/Adam-Morrow_hu_f414b40c5562b6f3.webp"
+            
+            media="(max-width: 991px)" />
+          <source
+            
+              srcset="/images/Adam-Morrow_hu_fe928aaf49529a95.webp"
+             />
+          <img
+            
+              loading="lazy" decoding="async"
+              src="/images/Adam-Morrow_hu_288de8ec0143b711.jpg"
+            class=" mx-auto mb-6 rounded img"
+            alt="Adam Morrow"
+            width="1512"
+            height="2016" />
+        </picture>
       
       
     
@@ -1011,21 +1048,14 @@
       <li>
         <a href="https://github.com" target="_blank" rel="noopener nofollow">
           <span class="sr-only"></span>
-          <i class="fa-brands fa-github"></i>
+          <i class="fa-brands fa-mastodon"></i>
         </a>
       </li>
     
       <li>
         <a href="https://twitter.com" target="_blank" rel="noopener nofollow">
           <span class="sr-only"></span>
-          <i class="fa-brands fa-twitter"></i>
-        </a>
-      </li>
-    
-      <li>
-        <a href="https://linkedin.com" target="_blank" rel="noopener nofollow">
-          <span class="sr-only"></span>
-          <i class="fa-brands fa-linkedin"></i>
+          <i class="fa-brands fa-signal-messenger"></i>
         </a>
       </li>
     

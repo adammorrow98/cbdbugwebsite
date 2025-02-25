@@ -9,6 +9,20 @@
     <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
     <atom:link href="https://brisbanecbdbug.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Brisbane City Council</title>
+      <link>https://brisbanecbdbug.org/categories/brisbane-city-council/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://brisbanecbdbug.org/categories/brisbane-city-council/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Council</title>
+      <link>https://brisbanecbdbug.org/categories/council/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://brisbanecbdbug.org/categories/council/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Cycling</title>
       <link>https://brisbanecbdbug.org/categories/cycling/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
@@ -20,6 +34,13 @@
       <link>https://brisbanecbdbug.org/categories/dogs/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       <guid>https://brisbanecbdbug.org/categories/dogs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Letter</title>
+      <link>https://brisbanecbdbug.org/categories/letter/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://brisbanecbdbug.org/categories/letter/</guid>
       <description></description>
     </item>
   </channel>
