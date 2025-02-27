@@ -27,7 +27,7 @@
       <link>https://brisbanecbdbug.org/our-letters/letter-1/</link>
       <pubDate>Fri, 09 Sep 2022 05:00:00 +0000</pubDate>
       <guid>https://brisbanecbdbug.org/our-letters/letter-1/</guid>
-      <description>&lt;h1 id=&#34;misuse-of-bus-lanes--jump-zones&#34;&gt;Misuse of bus lanes / jump zones&lt;/h1&gt;&#xA;&lt;h2 id=&#34;why-we-are-concerned&#34;&gt;Why we are concerned?&lt;/h2&gt;&#xA;&lt;p&gt;The Brisbane Central Business District Bicycle User Group (CBD BUG) is concerned about the ongoing misuse of bus lanes and jump zones by private motorists, which significantly diminishes the benefits of these spaces for cyclists and public transport users. Despite the legal allowance for cyclists to use bus lanes, many drivers ignore this and obstruct the lanes, undermining their intended purpose. Although occasional police enforcement is carried out, it is insufficient to deter this widespread issue due to limited resources. The group is requesting the installation of camera surveillance technology to automatically detect and penalize motorists who violate the rules, particularly in the inner city.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;why-we-are-concerned&#34;&gt;Why we are concerned?&lt;/h2&gt;&#xA;&lt;p&gt;The Brisbane Central Business District Bicycle User Group (CBD BUG) is concerned about the ongoing misuse of bus lanes and jump zones by private motorists, which significantly diminishes the benefits of these spaces for cyclists and public transport users. Despite the legal allowance for cyclists to use bus lanes, many drivers ignore this and obstruct the lanes, undermining their intended purpose. Although occasional police enforcement is carried out, it is insufficient to deter this widespread issue due to limited resources. The group is requesting the installation of camera surveillance technology to automatically detect and penalize motorists who violate the rules, particularly in the inner city.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to Cycle with your Dog!</title>
@@ -70,6 +70,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid></guid>
       <description></description>
+    </item>
+    <item>
+      <title>TOC Test</title>
+      <link>https://brisbanecbdbug.org/old-letters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brisbanecbdbug.org/old-letters/</guid>
+      <description>&lt;h1 id=&#34;section-1&#34;&gt;Section 1&lt;/h1&gt;&#xA;&lt;p&gt;Some content.&lt;/p&gt;&#xA;&lt;h2 id=&#34;subsection-11&#34;&gt;Subsection 1.1&lt;/h2&gt;&#xA;&lt;p&gt;More content.&lt;/p&gt;&#xA;&lt;h1 id=&#34;section-2&#34;&gt;Section 2&lt;/h1&gt;&#xA;&lt;p&gt;Even more content.&lt;/p&gt;</description>
     </item>
     <item>
       <title>What Users Are Saying About Hugoplate</title>
